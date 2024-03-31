@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">TestSun</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="lookup">Lookup</string>
+    <string name="sunrise_time">Sunrise %1$s</string>
+    <string name="sunset_time">Sunset %1$s</string>
+    <string name="sunrise_description">Image of sunrise</string>
+    <string name="sunset_description">Image of sunset</string>
+    <string name="today_date">Today\'s date </string>
+    <string name="city_name_placeholder">city</string>
+
+
+</resources>
